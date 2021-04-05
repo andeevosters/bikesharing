@@ -13,11 +13,11 @@ In order to truly understand the implications of the answers to questions posed,
 ### 1. The popularity of the various starting points in NYC
 The variance in popularity is 1 bike at a starting point up to 16,564 bikes, and this is shown by the size of the circles. 
 To little surprise, the outlying neighborhoods "launch" less bikers, while the heart of downtown, areas popular with tourists, for example, boast the highest number of starting points.
-[!Popularity of Starting Points in NYC](https://github.com/andeevosters/bikesharing/blob/main/Images/starting_point_popularity.png)
+![Popularity of Starting Points in NYC](https://github.com/andeevosters/bikesharing/blob/main/Images/starting_point_popularity.png)
 
 ### 2. Which day of the week and which time of the day is most common to ride 
 This heat map shows ride traffic volume by days of the week and hours of the day. The heaviest traffic is around 7-9am and again from 5-6pm. There is also a somewhat volume increase over the weekend, which might imply tourists. The heaviest traffic points to the suggestion that riders use bikes as a method of travel to and from work (upwards of 45,000 riders at one time).
-[!Popular Days & Times of Day to Ride](https://github.com/andeevosters/bikesharing/blob/main/Images/day_time_ride_heatmap.png)
+1[Popular Days & Times of Day to Ride](https://github.com/andeevosters/bikesharing/blob/main/Images/day_time_ride_heatmap.png)
 
 ### 3. The distribution of riders by rider type: customer vs. subscriber
 Subscribers account for an overwhelming 81% of all riders. This suggests that tourism isn't a large reason for the number of riders, as tourists wouldn't likely be incentivized to subscribe; rather, that would likely be locals who work 8-5 (see previous visual).
