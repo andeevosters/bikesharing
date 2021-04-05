@@ -37,8 +37,9 @@ Female subscribers and transactional customers generally ride evenly every day o
 
 ### 7. The number of bike trips for all riders and genders for each hour of each day of the week 
 The results on this heat map mimic the heat map in #2, showing that there is no real difference in riding time preference between genders.
-![Heatmap of Popular Ride Times by Gender(A)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender1.png)
-![Heatmap of Popular Ride Times by Gender(B)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender2.png)
+![Heatmap of Popular Ride Times by Gender(A)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender2.png)
+![Heatmap of Popular Ride Times by Gender(B)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender1.png)
+
 
 ## Summary
 Bikesharing is an extremely popular method of transportation in NYC, which makes sense in that access to owning and driving a car is minimal in NYC. The data really points to three primary takeaways: bikesharing is especially popular among males, they are subscribers, and they use the bikes during traditional, high-traffic work hours.
