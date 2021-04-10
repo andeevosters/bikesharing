@@ -27,15 +27,19 @@ Subscribers account for an overwhelming 81% of all riders. This suggests that to
 Male riders account for 72% of all riders who shared their gender (65% of all respondents). While the data doesn't tell us why, one question of interest to answer next would be if females have safety concerns (ex. traveling alone).
 ![Gender Ratio](https://github.com/andeevosters/bikesharing/blob/main/Images/gender.png)
 
-### 5. The length of time that bikes are checked out for all riders and genders
-Most rides last less than 8 minutes. Males ride for 5 minutes on average, and females for 7 minutes.This might imply that bikes are not used as much for recreational purposes as much as for logistical purposes.
+### 5. The length of time that bikes are checked out for
+The majority of rides last 5 minutes. This might imply that bikes are not used as much for recreational purposes as much as for logistical purposes.
+![Trip Duration by Gender](https://github.com/andeevosters/bikesharing/blob/main/Images/checkout_times.png)
+
+### 6. The length of time that bikes are checked out for all riders and genders
+Males ride for 5 minutes on average, and females for 7 minutes.
 ![Trip Duration by Gender](https://github.com/andeevosters/bikesharing/blob/main/Images/duration_by_gender.png)
 
-### 6. The number of bike trips for each type of user and gender for each day of the week
+### 7. The number of bike trips for each type of user and gender for each day of the week
 Female subscribers and transactional customers generally ride evenly every day of the week. Male subscribers, however, account for most rides, with the majority of rides occurring during the week (heaviest traffic on Thursdays). Note: the least common day for a male subscriber is still more dense than female subscribers or all transactional customers on their busiest days.
 ![Weekday Ride Heatmap: Customers vs. Subscribers](https://github.com/andeevosters/bikesharing/blob/main/Images/Weekday_ride_heatmap.png)
 
-### 7. The number of bike trips for all riders and genders for each hour of each day of the week 
+### 8. The number of bike trips for all riders and genders for each hour of each day of the week 
 The results on this heat map mimic the heat map in #2, showing that there is no real difference in riding time preference between genders.
 ![Heatmap of Popular Ride Times by Gender(A)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender2.png)
 ![Heatmap of Popular Ride Times by Gender(B)](https://github.com/andeevosters/bikesharing/blob/main/Images/heatmap_by_gender1.png)
